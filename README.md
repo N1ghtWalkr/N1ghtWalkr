@@ -2,7 +2,7 @@
 
 💻 Computer Science student specializing in Data Science <br/>
 🎓 Studying [Computer Science](https://aiu.edu.my/) at Albukhary International University, Malaysia <br/>
-📹 Making videos about Data Science, tech, and productivity on [YouTube](https://www.youtube.com/your-channel-link) <br/>
+📹 Making videos about Data Science, tech, and productivity on [YouTube](https://youtube.com/@infinitelogic?si=rp4zsuDmWMGZZMnI) <br/>
 📊 Currently learning about data analytics and [data visualization](https://www.coursera.org/courses?query=data%20analytics)! <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
